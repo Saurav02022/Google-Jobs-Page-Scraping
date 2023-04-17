@@ -1,0 +1,26 @@
+{
+  "name": "google-jobs-page-scraping",
+  "version": "1.0.0",
+  "description": "- Use Node.js to write a script that scrapes job listings from Google's jobs page (https://careers.google.com/jobs/results/).\r - Retrieve job data such as job title, location, job description, and any other relevant information available on the page.\r - Store the scraped data in a JSON format.\r - Use appropriate libraries or modules for making HTTP requests and parsing HTML or JSON data.\r - Make sure to handle errors and exceptions gracefully in your code.\r - Write clean, well-organized, and maintainable code with appropriate comments and documentation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saurav02022/Google-Jobs-Page-Scraping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saurav02022/Google-Jobs-Page-Scraping/issues"
+  },
+  "homepage": "https://github.com/Saurav02022/Google-Jobs-Page-Scraping#readme",
+  "dependencies": {
+    "axios": "^1.3.5",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.0.3"
+  }
+}
