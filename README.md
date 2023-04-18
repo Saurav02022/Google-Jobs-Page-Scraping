@@ -4,7 +4,7 @@ This project demonstrates how to scrape data from a website using Node.js. In th
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/Saurav02022/Imdb-top250-movies-Scraping`
+1. Clone the repository: `git clone https://github.com/Saurav02022/Imdb-top250-movies-Scraping.git`
 2. Install dependencies: `npm install`
 
 ## Usage
